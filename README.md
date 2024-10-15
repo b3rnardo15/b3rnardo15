@@ -1,6 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Bernardo Simões</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac.</h3>
 
+<p align="center">📫 Entre em contato por: <strong>bernardo0simoes@gmail.com</strong></p>
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
@@ -10,9 +11,13 @@
     <a href="https://discord.gg/b3rnardo_15" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
     </a>
+    <a href="mailto:bernardo0simoes@gmail.com" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" height="30" width="40" />
+    </a>
+    <span>bernardo0simoes@gmail.com</span>
 </p>
 
-<h3 align="center">Ferramentas:</h3>
+<h3 align="center">Idiomas e ferramentas:</h3>
 <p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
