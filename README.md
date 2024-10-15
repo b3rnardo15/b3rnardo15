@@ -1,7 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Bernardo Simões</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac.</h3>
 
-<p align="center">📫 Entre em contato por: <strong>bernardo0simoes@gmail.com</strong></p>
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
