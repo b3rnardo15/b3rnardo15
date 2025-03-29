@@ -36,7 +36,7 @@
     </a>
 </p>
 
-<h3 align="center">Estatísticas do GitHub:</h3>
+<h3 align="center">Estatísticas no GitHub:</h3>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" alt="Línguas" />
 </p>
