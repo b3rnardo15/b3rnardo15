@@ -1,4 +1,4 @@
-<h1 align="center">Oi, Eu sou Bernardo Simões</h1>
+<h1 align="center">Oi, Me chamo Bernardo Simões</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac.</h3>
 
 
