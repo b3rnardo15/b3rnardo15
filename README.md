@@ -1,8 +1,9 @@
 <h1 align="center">Oi, Eu sou Bernardo Simões</h1>
-<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac.</h3>
+<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac</h3>
 
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtbjBkOGV1ZWRlNXd1ZWJlNnJlcWRxNnJqZWJlcWRxNnJqZWJlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx0BgEPhIevlAVEbnq/giphy.gif" width="400" alt="Dwight Schrute" />
+</p>
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
@@ -36,10 +37,19 @@
     </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtbjBkOGV1ZWRlNXd1ZWJlNnJlcWRxNnJqZWJlcWRxNnJqZWJlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwmztXQO7BUzu/giphy.gif" width="300" alt="Dwight Working" />
+</p>
+
 <h3 align="center">Estatísticas do GitHub:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" alt="Línguas" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" alt="Línguas" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" alt="Estatísticas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" alt="Estatísticas" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtbjBkOGV1ZWRlNXd1ZWJlNnJlcWRxNnJqZWJlcWRxNnJqZWJlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXFKDUolyLLSBNfLB3/giphy.gif" width="300" alt="Dwight Salute" />
+</p>
+```
