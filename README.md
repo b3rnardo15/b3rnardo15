@@ -2,7 +2,7 @@
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWphOGt5bHZ1anhjN28zbHV6aTdscWFrOGdieGhheGZvbGVqZTlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FerjqPHY2OGDPJPwEk/giphy.gif" width="350" alt="Dwight Schrute" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWphOGt5bHZ1anhjN28zbHV6aTdscWFrOGdieGhheGZvbGVqZTlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FerjqPHY2OGDPJPwEk/giphy.gif" width="300" alt="Dwight Schrute" />
 </p>
 
 <h3 align="center">Conecte-se comigo:</h3>
