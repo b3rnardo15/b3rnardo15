@@ -2,7 +2,7 @@
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWphOGt5bHZ1anhjN28zbHV6aTdscWFrOGdieGhheGZvbGVqZTlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FerjqPHY2OGDPJPwEk/giphy.gif" width="300" alt="Dwight Schrute" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWphOGt5bHZ1anhjN28zbHV6aTdscWFrOGdieGhheGZvbGVqZTlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FerjqPHY2OGDPJPwEk/giphy.gif" width="280" alt="Dwight Schrute" />
 </p>
 
 <h3 align="center">Conecte-se comigo:</h3>
@@ -38,9 +38,22 @@
 </p>
 
 <h3 align="center">Estatísticas do GitHub:</h3>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" alt="Línguas" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" alt="Estatísticas" />
-</p>
+<div align="center">
+  <a href="https://github.com/b3rnardo15">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" alt="Línguas mais usadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" alt="Estatísticas do GitHub"/>
+  </a>
+</div>
+```
+
+As principais mudanças que fiz foram:
+
+1. Substituí os dois parágrafos (`<p>`) separados por uma única `<div>` com `align="center"`
+2. Coloquei ambas as imagens dentro de um link para o seu perfil do GitHub
+3. Defini uma altura fixa para ambas as imagens (180em) para que fiquem do mesmo tamanho
+4. Removi os alinhamentos individuais (left/center) para que ambas as imagens sigam o alinhamento central da div
+
+Isso deve fazer com que as estatísticas fiquem lado a lado e centralizadas na tela. Em telas menores, elas podem se empilhar naturalmente, mantendo o layout responsivo.
+```
+
+
