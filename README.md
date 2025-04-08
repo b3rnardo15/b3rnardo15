@@ -44,16 +44,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" alt="Estatísticas do GitHub"/>
   </a>
 </div>
-```
-
-As principais mudanças que fiz foram:
-
-1. Substituí os dois parágrafos (`<p>`) separados por uma única `<div>` com `align="center"`
-2. Coloquei ambas as imagens dentro de um link para o seu perfil do GitHub
-3. Defini uma altura fixa para ambas as imagens (180em) para que fiquem do mesmo tamanho
-4. Removi os alinhamentos individuais (left/center) para que ambas as imagens sigam o alinhamento central da div
-
-Isso deve fazer com que as estatísticas fiquem lado a lado e centralizadas na tela. Em telas menores, elas podem se empilhar naturalmente, mantendo o layout responsivo.
-```
 
 
