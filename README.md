@@ -18,7 +18,7 @@
     </a>
 </p>
 
-<h3 align="center">Idiomas e ferramentas:</h3>
+<h3 align="center">Ferramentas:</h3>
 <p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
