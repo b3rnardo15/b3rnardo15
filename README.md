@@ -44,5 +44,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" alt="Estatísticas do GitHub"/>
   </a>
 </div>
-
-
