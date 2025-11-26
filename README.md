@@ -1,3 +1,7 @@
+
+GitHub README
+
+
 <div align="center">
   <h1>Oi, Eu sou Bernardo Simões</h1>
   <h3>Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac</h3>
@@ -77,10 +81,10 @@
   <h3>Estatísticas do GitHub:</h3>
   <a href="https://github.com/b3rnardo15">
     <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=pt_BR&layout=compact&theme=dark" 
          alt="Línguas mais usadas"/>    
     <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=en&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=0D1117" 
+         src="https://github-readme-stats.vercel.app/api?username=b3rnardo15&show_icons=true&locale=pt_BR&theme=dark" 
          alt="Estatísticas do GitHub"/>
   </a>
 </div>
