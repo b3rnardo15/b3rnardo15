@@ -6,8 +6,10 @@
 width="280" 
     alt="Dwight Schrute" />
 
-<hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Conecte-se comigo:</h3>
-<table align="center">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=b3rnardo15&color=blueviolet" alt="Visualizações do perfil" />
+  </p>   <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Conecte-se comigo:</h3>
+  <table align="center">
     <tr>
       <td>
         <a href="https://www.linkedin.com/in/bernardo-simões-728002210" target="blank">
@@ -61,6 +63,21 @@ width="280"
       <td>
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" />
         </a>
       </td>
     </tr>
