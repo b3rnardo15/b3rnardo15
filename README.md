@@ -1,15 +1,13 @@
 <div align="center">
-  <h1>Oi, Eu sou Bernardo Simões</h1>
+<h1>Oi, Eu sou Bernardo Simões</h1>
   <h3>Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac</h3>
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWphOGt5bHZ1anhjN28zbHV6aTdscWFrOGdieGhheGZvbGVqZTlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FerjqPHY2OGDPJPwEk/giphy.gif" 
-       width="280" 
-       alt="Dwight Schrute" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWphOGt5bHZ1anhjN28zbHV6aTdscWFrOGdieGhheGZvbGVqZTlveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FerjqPHY2OGDPJPwEk/giphy.gif"
+width="280" 
+    alt="Dwight Schrute" />
 
-  <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">
-
-  <h3>Conecte-se comigo:</h3>
-  <p>
+<hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Conecte-se comigo:</h3>
+<p>
     <a href="https://www.linkedin.com/in/bernardo-simões-728002210" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
            alt="LinkedIn" 
@@ -28,11 +26,7 @@
            height="30" 
            width="40" />
     </a>
-  </p>
-
-  <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">
-
-  <h3>Ferramentas:</h3>
+  </p>   <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Ferramentas:</h3>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
@@ -70,11 +64,13 @@
            width="40" 
            height="40" />
     </a>
-  </p>
-
-  <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">
-
-  <h3>Estatísticas do GitHub:</h3>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+           alt="PostgreSQL" 
+           width="40" 
+           height="40" />
+    </a>
+  </p>   <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Estatísticas do GitHub:</h3>
   <a href="https://github.com/b3rnardo15">
     <img height="180em" 
          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=pt_BR&layout=compact&theme=dark" 
@@ -84,3 +80,4 @@
          alt="Estatísticas do GitHub"/>
   </a>
 </div>
+
