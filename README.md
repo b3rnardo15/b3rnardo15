@@ -7,7 +7,7 @@ width="280"
     alt="Dwight Schrute" />
 
 <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Conecte-se comigo:</h3>
-<p>
+<div>
     <a href="https://www.linkedin.com/in/bernardo-simões-728002210" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
            alt="LinkedIn" 
@@ -26,8 +26,8 @@ width="280"
            height="30" 
            width="40" />
     </a>
-  </p>   <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Ferramentas:</h3>
-  <p>
+  </div>   <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Ferramentas:</h3>
+  <div>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
            alt="CSS3" 
@@ -70,7 +70,7 @@ width="280"
            width="40" 
            height="40" />
     </a>
-  </p>   <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Estatísticas do GitHub:</h3>
+  </div>   <hr style="width:70%; border:2px solid #58A6FF; border-radius:5px; margin:20px auto;">   <h3>Estatísticas do GitHub:</h3>
   <a href="https://github.com/b3rnardo15">
     <img height="180em" 
          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=b3rnardo15&show_icons=true&locale=pt_BR&layout=compact&theme=dark" 
